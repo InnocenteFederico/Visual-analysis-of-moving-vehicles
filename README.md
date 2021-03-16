@@ -1,1 +1,17 @@
-# car_speed_detection_in_video
+# Visual analysis of moving vehicles
+Traffic monitoring is a very relevant issue in modern cities, it allows
+gathering useful information which can be used for enforcing traffic
+laws. Such data can also be used for extracting insights about the flow
+of traffic which can help to design more efficient infrastructure. The
+relevance of our work is that it offers a mobile solution for traffic speed
+monitoring that does not require specialized hardware as it only uses
+video recordings from any type of device and simple measurements.
+
+Goal: detect the trajectory and estimate the speed of vehicles from
+video recording.
+
+Data: a video of a straight road with moving cars such that the image
+plane is not parallel to the road direction and the camera is fixed at a
+known position with respect to a point on the road
+
+[![Final result](https://img.youtube.com/vi/tX1O7nYcmkg/0.jpg)](https://youtu.be/tX1O7nYcmkg)
