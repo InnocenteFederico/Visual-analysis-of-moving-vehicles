@@ -18,3 +18,6 @@ known position with respect to a point on the road
 
 ## Final result:
 [![Final result](https://img.youtube.com/vi/tX1O7nYcmkg/0.jpg)](http://www.youtube.com/watch?v=tX1O7nYcmkg)
+
+## Contributors
+[Eugenio Ostrovan](https://github.com/lleugen), [Andrea Marcer](https://github.com/AndreaMarcer) and [Federico Innocente](https://github.com/InnocenteFederico)
