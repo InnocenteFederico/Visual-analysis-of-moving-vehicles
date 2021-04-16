@@ -10,7 +10,7 @@ video recordings from any type of device and simple measurements.
 Goal: detect the trajectory and estimate the speed of vehicles from
 video recording.
 
-Data: a video of a straight road with moving cars such that the image
+Data: a video of a straight road (small curvature is supported) with moving cars such that the image
 plane is not parallel to the road direction and the camera is fixed at a
 known position with respect to a point on the road
 
